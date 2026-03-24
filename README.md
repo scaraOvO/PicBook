@@ -29,14 +29,14 @@
 1. 克隆存储库：
 
 ```
-git clone https://github.com/wanderer-fly/ImageHosting.git
+https://github.com/scaraOvO/PicBook.git
 ```
 
 
 2. 安装依赖项：
 
 ```
-cd ImageHosting
+cd PicBook
 npm install
 ```
 
